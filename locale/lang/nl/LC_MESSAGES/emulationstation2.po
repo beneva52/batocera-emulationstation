@@ -11,7 +11,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "REALLY UPDATE?"
-msgstr "Wil je updaten?"
+msgstr "Wil je echt updaten?"
 
 msgid "YES"
 msgstr "Ja"
@@ -20,13 +20,13 @@ msgid "NO"
 msgstr "Nee"
 
 msgid "NETWORK CONNECTION NEEDED"
-msgstr "Netwerk verbinding nodig"
+msgstr "Plug een netwerkkabel"
 
 msgid "OK"
-msgstr "Ok"
+msgstr "OK"
 
 msgid "UPDATE DOWNLOADED, THE SYSTEM WILL NOW REBOOT"
-msgstr "Update gedownload, Het systeem zal nu herstarten"
+msgstr "Update gedownload, het systeem zal nu herstarten"
 
 msgid "NO UPDATE AVAILABLE"
 msgstr "Er is geen update beschikbaar"
@@ -50,19 +50,19 @@ msgid "CLOSE"
 msgstr "Sluiten"
 
 msgid "JUMP TO..."
-msgstr ""
+msgstr "Ga naar..."
 
 msgid "SORT GAMES BY"
 msgstr "Sorteer spellen op"
 
 msgid "FILTER GAMELIST"
-msgstr ""
+msgstr "Spellen filteren"
 
 msgid "EDIT THIS GAME'S METADATA"
 msgstr "Bewerk deze spelgegevens"
 
 msgid "FINNISHED"
-msgstr ""
+msgstr "Klaar"
 
 msgid "MAIN MENU"
 msgstr "Hoofdmenu"
@@ -71,19 +71,19 @@ msgid "KODI MEDIA CENTER"
 msgstr "Kodi Media Center"
 
 msgid "GAMES SETTINGS"
-msgstr "Spel instellingen"
+msgstr "Instellingen van de spelletjes"
 
 msgid "CONTROLLERS SETTINGS"
-msgstr "Controller instellingen"
+msgstr "Instellingen van de controllers"
 
 msgid "UI SETTINGS"
-msgstr "UI instellingen"
+msgstr "Instellingen van de gebruikersinterface"
 
 msgid "SOUND SETTINGS"
-msgstr "Geluid instellingen"
+msgstr "Instellingen van het geluid"
 
 msgid "NETWORK SETTINGS"
-msgstr "Netwerk instellingen"
+msgstr "Instellingen van het netwerk"
 
 msgid "RETROACHIEVEMENTS"
 msgstr "Retroarchievements"
@@ -92,10 +92,10 @@ msgid "SCRAPE"
 msgstr "Scrape"
 
 msgid "SYSTEM SETTINGS"
-msgstr "Systeem instellingen"
+msgstr "Instellingen van het systeem"
 
 msgid "INFORMATIONS"
-msgstr ""
+msgstr "Algemene informatie"
 
 msgid "QUIT"
 msgstr "Stoppen"
@@ -116,28 +116,28 @@ msgid "SELECT"
 msgstr "Selecteer"
 
 msgid "INFORMATION"
-msgstr ""
+msgstr "informatie"
 
 msgid "VERSION"
 msgstr "Versie"
 
 msgid "DISK USAGE"
-msgstr "Geheugen verbruik"
+msgstr "Gebruikt geheugen"
 
 msgid "CREATE A SUPPORT FILE ?"
-msgstr ""
+msgstr "Support file maken?"
 
 msgid "FILE GENERATED SUCCESSFULLY"
-msgstr ""
+msgstr "File aangemaakt"
 
 msgid "FILE GENERATION FAILED"
-msgstr ""
+msgstr "Geen file aangemaakt"
 
 msgid "CREATE A SUPPORT FILE"
-msgstr ""
+msgstr "Support file maken"
 
 msgid "STORAGE DEVICE"
-msgstr "Opslag apparaat"
+msgstr "Opslagmedium"
 
 msgid "LANGUAGE"
 msgstr "Taal"
@@ -149,61 +149,61 @@ msgid "UPDATES"
 msgstr "Updates"
 
 msgid "AUTO UPDATES"
-msgstr "Auto Updates"
+msgstr "Automatisch updaten"
 
 msgid "START UPDATE"
-msgstr "Start update"
+msgstr "Nu updaten"
 
 msgid "BACKUP USER DATA"
-msgstr ""
+msgstr "Back-up van gebruikersgegevens"
 
 msgid "KODI SETTINGS"
-msgstr "Kodi Instellingen"
+msgstr "Kodi instellingen"
 
 msgid "ENABLE KODI"
 msgstr "Activeer Kodi"
 
 msgid "KODI AT START"
-msgstr "Kodi bij Starten"
+msgstr "Start systeem met Kodi"
 
 msgid "START KODI WITH X"
-msgstr "Start Kodi met X"
+msgstr "Start Kodi met X toets"
 
 msgid "INSTALL BATOCERA ON A NEW DISK"
-msgstr ""
+msgstr "Installeer Batocera op een nieuwe disk"
 
 msgid "SECURITY"
-msgstr "Beveiliging"
+msgstr "Veiligheid"
 
 msgid "ENFORCE SECURITY"
-msgstr "Forceer Beveiliging"
+msgstr "Veiligheid versterken"
 
 msgid "ROOT PASSWORD"
-msgstr "Root Wachtwoord"
+msgstr "Root wachtwoord"
 
 msgid "A REBOOT OF THE SYSTEM IS REQUIRED TO APPLY THE NEW CONFIGURATION"
-msgstr ""
+msgstr "Een herstart van het systeem is nodig om de nieuwe configuratie te gebruiken"
 
 msgid "GAME RATIO"
-msgstr "Spel Ratio"
+msgstr "Spelratio"
 
 msgid "SMOOTH GAMES"
-msgstr "Vloeiende spellen"
+msgstr "Visuele weergave verbeteren"
 
 msgid "AUTO"
 msgstr "Automatisch"
 
 msgid "ON"
-msgstr ""
+msgstr "Aan"
 
 msgid "OFF"
-msgstr ""
+msgstr "Uit"
 
 msgid "REWIND"
 msgstr "Terugspoelen"
 
 msgid "AUTO SAVE/LOAD"
-msgstr "Auto opslaan/laden"
+msgstr "Automatisch opslaan/laden"
 
 msgid "SHADERS SET"
 msgstr "Shaders Set"
@@ -218,10 +218,10 @@ msgid "RETRO"
 msgstr "Retro"
 
 msgid "INTEGER SCALE (PIXEL PERFECT)"
-msgstr ""
+msgstr "Integer schaal (Pixel perfect)"
 
 msgid "DECORATION"
-msgstr ""
+msgstr "Aankleding"
 
 msgid "RETROACHIEVEMENTS SETTINGS"
 msgstr "Retroarchievements instellingen"
